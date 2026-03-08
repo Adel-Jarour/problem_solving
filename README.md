@@ -2,7 +2,7 @@
 
 This repository contains coding problem solutions.
 
-We will use one of these languages ​​in the solution:
+I will use one of these languages ​​in the solution:
 
 - Dart
 - Python
