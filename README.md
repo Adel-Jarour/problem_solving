@@ -1,6 +1,12 @@
 # Problem Solving
 
-This repository contains coding problem solutions organized by problem index and title.
+This repository contains coding problem solutions.
+
+We will use one of these languages ​​in the solution:
+
+- Dart
+- Python
+- JavaScript
 
 ## Problems
 
