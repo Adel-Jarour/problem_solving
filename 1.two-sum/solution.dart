@@ -16,5 +16,7 @@ class Solution {
 
 void main() {
   Solution solution = Solution();
-  print(solution.twoSum([0, 2, 4, 3, 7], 5));
+  print(
+    solution.twoSum([2, 3, 5, 8, 7], 8),
+  );
 }
