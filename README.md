@@ -15,3 +15,4 @@ I will use one of these languages ​​in the solution:
 3. `longest-substring-without-repeating-characters` | Dart
 4. `Median-of-Two-Sorted-Arrays` | JavaScript
 5. `Longest-Palindromic-Substring` | JavaScript
+6. `Zigzag-Conversion` | JavaScript
