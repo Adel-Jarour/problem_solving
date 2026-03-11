@@ -16,3 +16,4 @@ I will use one of these languages ​​in the solution:
 4. `Median-of-Two-Sorted-Arrays` | JavaScript
 5. `Longest-Palindromic-Substring` | JavaScript
 6. `Zigzag-Conversion` | JavaScript
+7. `Palindrome-Number` | Python
