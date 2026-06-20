@@ -17,3 +17,4 @@ I will use one of these languages ​​in the solution:
 5. `Longest-Palindromic-Substring` | JavaScript
 6. `Zigzag-Conversion` | JavaScript
 7. `Palindrome-Number` | Python
+8. `Reverse-integer` | Python
