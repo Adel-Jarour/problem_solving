@@ -18,3 +18,5 @@ I will use one of these languages ​​in the solution:
 6. `Zigzag-Conversion` | JavaScript
 7. `Palindrome-Number` | Python
 8. `Reverse-integer` | Python
+9. `String-to-integer(atoi)` | Dart
+10. `Longest-common-prefix` | JavaScript
